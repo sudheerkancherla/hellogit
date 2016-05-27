@@ -1,0 +1,2 @@
+# hellogit
+try git basics
